@@ -9,7 +9,6 @@ function App() {
         <StyleBlock></StyleBlock>
         <StyleBlock></StyleBlock>
         <StyleBlock></StyleBlock>
-        <StyleBlock></StyleBlock>
       </Styleddiv>
     </>
   )
