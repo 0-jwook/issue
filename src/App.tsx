@@ -8,7 +8,6 @@ function App() {
       <Styleddiv>
         <StyleBlock></StyleBlock>
         <StyleBlock></StyleBlock>
-        <StyleBlock></StyleBlock>
       </Styleddiv>
     </>
   )
